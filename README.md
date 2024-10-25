@@ -10,3 +10,10 @@ Proyek Flutter ini berfokus pada integrasi dengan **REST API**, yang memungkinka
 
 ### Tujuan Proyek
 Proyek ini bertujuan untuk memperkenalkan pengguna pada cara berinteraksi dengan **REST API** dalam aplikasi Flutter. Dengan menggunakan REST API, pengguna dapat belajar bagaimana menghubungkan aplikasi mereka dengan layanan backend dan mengelola data secara efisien. Proyek ini juga memberikan kesempatan untuk memahami konsep komunikasi antara client dan server dalam pengembangan aplikasi.
+
+# SHOWCASE
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/017.1.png" width="200px"/>
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/017.2.png" width="200px"/>
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/017.3.png" width="200px"/>
+</div>
